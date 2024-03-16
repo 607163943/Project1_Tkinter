@@ -1,0 +1,5 @@
+TITLE="扫雷"
+BOARD_FONT=("微软雅黑",20)
+START_WINDOW_TITLE_FONT=("微软雅黑",20)
+START_WINDOW_OTHER_FONT=("微软雅黑",15)
+SCR_FONT=("微软雅黑",15)
